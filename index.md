@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Wyatt's Toolbox
+Where *I* build software.
 
-You can use the [editor on GitHub](https://github.com/WyattSL/toolbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Greyscript
+Greyscript is a super cool and extensive hacking tool. Greysploit is available for **free** on the apt repository `1.219.247.32`, or on BTCshop for 1 BTC.
+#### Cool Features
+- Cloud Computing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Greysploit has the *optional* ability to scan libraries and decipher hashes remotely. This allows you to perform otherwise slow actions much quicker, regardless of the hardware on your current system. This is particularly helpful when hacking routers.
+- Streamer Mode
 
-### Markdown
+  Greysploit has a streamer mode, available with `greysploit -ss`. With streamer mode enabled, various sensitive information (including Public IPs) is hidden with a magenta highlight, which can be blocked with a magenta chroma key. For OBS, I find a similarity of **375** works well. You can also type HIDE and certain inputs to hide whatever you type behind the magenta highlight.
+- Email Inputs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  If you enter your E-Mail address and password in the `setup` menu, Greysploit has the ability to automatically pull IP addresses from your E-mails. For example, on the home menu, if you enter `M#1` or `M#3`, it would look for any IP addresses in your 1st most recent E-mail, or your 3rd most recent E-mail.
+- Frequent Updates
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WyattSL/toolbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Greysploit is frequently updated, and actively maintained. If you want to see the new and upcoming features, use the `greysploitExp` version on the apt repository, or use the `update exp` command.
