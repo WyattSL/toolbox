@@ -1,8 +1,8 @@
 ## Wyatt's Toolbox
 Where *I* build software.
 
-### Greyscript
-Greyscript is a super cool and extensive hacking tool. Greysploit is available for **free** on the apt repository `1.219.247.32`, or on BTCshop for 1 BTC.
+### Greysploit
+Greysploit is a super cool and extensive hacking tool. Greysploit is available for **free** on the apt repository `1.219.247.32`, or on BTCshop for 1 BTC.
 #### Cool Features
 - Cloud Computing
 
